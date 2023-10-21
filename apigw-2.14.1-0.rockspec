@@ -3,7 +3,7 @@ version = "2.14.1-0"
 supported_platforms = {"linux", "macosx"}
 
 source = {
-    url = "https://github.com/AnneXXB/cmft-kong.git",
+    url = "git+https://github.com/AnneXXB/cmft-kong.git",
     branch = "master",
 }
 
